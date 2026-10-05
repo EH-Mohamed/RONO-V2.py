@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-RONOAI Network Monitor - Ultimate Edition
-DNS Spoofing + ARP Poisoning + HTTP Sniffing + Keylogger Network
-Educational Purposes Only | Author: Mohamed Elharrimse 2025
-"""
 
 import logging
 import threading
